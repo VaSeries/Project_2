@@ -39,16 +39,16 @@ Expires on: 31/12/2029"""
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - video with Screenshots
+   SVideo - Video with Screenshots
    DFile  - File with Screenshots
-   Video  - video without Screenshots
+   Video  - Video without Screenshots
    DFile  - File without Screenshots
    
 
 --------
 Send /me to know current plan details
 
-Support Channel : @VaSeries , @adobefiles"""
+Support Channel : @VaComp , @adobefiles"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
